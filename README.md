@@ -5,8 +5,8 @@ During gameplay, pressing ESC opens the pause menu, allowing the player to save 
 
 The game features a main menu with 5 buttons:
 
-Start: Initiates the game.
-Load: Loads a saved game.
-Leaderboard: Displays the leaderboard.
-Customize: Allows players to assign different keys for movement.
-Quit: Exits the game.
+1.Start: Initiates the game.
+2.Load: Loads a saved game.
+3.Leaderboard: Displays the leaderboard.
+4.Customize: Allows players to assign different keys for movement.
+5.Quit: Exits the game.
